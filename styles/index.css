@@ -5,7 +5,6 @@
   justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
-  
 }
 
 .nav {
@@ -24,9 +23,8 @@
   letter-spacing: 0.32px;
   color: #1B0A42;
   cursor: pointer;
-  
-  
 }
+
 a {
   text-decoration: none;
 }
@@ -34,6 +32,7 @@ a {
 a:hover {
   color: #A3DC00;
 }
+
 .nav li {
   margin-left: 38px; 
 }
@@ -82,7 +81,6 @@ a:hover {
 
 .logo-dot {
   color: #A3DC00;
-  
 }
 
 section {
@@ -95,6 +93,7 @@ section {
   justify-content: space-between;
   align-items: center;
 }
+
 .main-title {
   max-width: 495px;
   width: 100%;
@@ -122,8 +121,7 @@ section {
   font-weight: 400;
   line-height: 32px;
   letter-spacing: 0.04em;
-  color: #9A9A9A;
-  
+  color: #9A9A9A; 
 }
 
 .main-btn {
