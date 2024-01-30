@@ -23,15 +23,25 @@
   line-height: 24px;
   letter-spacing: 0.32px;
   color: #1B0A42;
+  cursor: pointer;
+  
+  
+}
+a {
+  text-decoration: none;
 }
 
+a:hover {
+  color: #A3DC00;
+}
 .nav li {
-  margin-left: 38px;
+  margin-left: 38px; 
 }
 
 .sign-in {
   margin-left: 472px;
 }
+ 
 .nav-btn {
   background-color: #A3DC00;
   color: #ffffff;
@@ -48,6 +58,13 @@
   margin-right: 68px;
   margin-left: 40px;
   letter-spacing: 0.32px;
+  cursor: pointer;
+  
+}
+
+.nav-btn:hover {
+  background-color: #1B0A42;
+  color: #ffffff;
 }
 
 .logo {
@@ -125,6 +142,12 @@ section {
   letter-spacing: 0.02em;
   color: #ffffff;
   border: none;
+  cursor: pointer;
+}
+
+.main-btn:hover {
+  background-color: #1B0A42;;
+  color: #ffffff;
 }
 
 .main-img {
